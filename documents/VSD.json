@@ -9,9 +9,9 @@
     "email": "t00758528@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-01T17:38:56.680Z",
+  "lastChangedOn": "2026-10-01T18:17:21.606Z",
   "lastChangedBy": {
-    "name": "T00762405",
+    "name": "Sulav",
     "email": "t00762405@mytru.ca",
     "company": "Thompson Rivers University"
   },
@@ -79,7 +79,20 @@
         {
           "id": "8",
           "guid": "664f3fa9-f77b-4d43-b111-3c9979f1f094",
-          "text": "<p>&lt;date created&gt;</p>"
+          "text": "<p>1 October, 2026</p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "text": "<p>&lt;date created&gt;</p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00762405@mytru.ca",
+                "name": "Sulav"
+              },
+              "changedOn": "2026-10-01T17:52:30.910Z"
+            }
+          ]
         },
         {
           "id": "9",
@@ -209,7 +222,53 @@
                 {
                   "id": "34",
                   "guid": "d6865911-3d84-43f9-9f82-45b870a454f3",
-                  "text": "<p>&lt;Summarize the rationale for the new product. Provide a general description of the history or situation that leads to the recognition that this product should be built.&gt;</p>"
+                  "text": "<p dir=\"ltr\" style=\"text-align: start;\">After the COVID-19 pandemic, the City lost contact with many volunteers. At the same time, many senior citizens require assistance with activities such as daily calls and wellness support. The City also identified a need for volunteers to provide additional coaching and training to students.</p><p dir=\"ltr\" style=\"text-align: start;\">The current volunteer assignment process is mainly manual and takes approximately two weeks, largely because of the police certificate verification process. The City also lacks a centralized system for tracking volunteers, community cases, and volunteer availability.</p><p dir=\"ltr\" style=\"text-align: start;\">The Volunteer Management System (VMS) will provide a centralized platform for managing volunteers, community cases, background-check status, and volunteer assignments.</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "text": "<p>&lt;Summarize the rationale for the new product. Provide a general description of the history or situation that leads to the recognition that this product should be built.&gt;</p>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "Sulav"
+                      },
+                      "changedOn": "2026-10-01T17:57:12.334Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Following the COVID-19 pandemic, the Kamloops Mayor’s Office has experienced a decline in its connection with local volunteers and community organizations. At the same time, community houses, senior citizens, and people with special needs continue to require assistance with activities and services that depend on volunteer participation.</p><p><br></p><p>Volunteer activities can contribute to stronger community connections and may help address social issues within the community. However, without an organized system for registering, approving, coordinating, and tracking volunteers, it is difficult for the Mayor’s Office to efficiently manage volunteer resources and connect available volunteers with people or organizations requiring assistance.</p><p><br></p><p>The proposed Volunteer Management System (VMS) will provide a centralized online platform for managing volunteer participation. The system will allow individuals to register as volunteers, enable authorized city personnel to review and approve applications, maintain records of volunteer activities, and assign volunteers to appropriate community tasks.</p><p><br></p><p>To further encourage participation, local businesses will be able to provide promotions or discounts to eligible volunteers based on their participation. This incentive program is intended to recognize volunteer contributions and encourage continued engagement with the community.</p><p><br></p><p>The system will therefore serve as a central connection point between volunteers, the Mayor’s Office, community members or organizations requiring assistance, and participating local businesses.</p><p><br></p>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "Sulav"
+                      },
+                      "changedOn": "2026-10-01T18:01:18.532Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>After the COVID-19 pandemic, the Kamloops Mayor’s Office has experienced a decline in connection with local volunteers. At the same time, community organizations, seniors, and people with special needs require additional assistance.</p><p><br></p><p>The proposed Volunteer Management System (VMS) will provide an online platform that connects volunteers with organizations and individuals who need assistance. The system will allow volunteers to register, receive approval, view and accept assignments, and keep track of their volunteer activities. Local businesses can also provide discounts or promotions to encourage volunteer participation.</p><p><br></p><p><br></p>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "Sulav"
+                      },
+                      "changedOn": "2026-10-01T18:01:27.354Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>After the COVID-19 pandemic, the Kamloops Mayor’s Office has experienced a decline in connection with local volunteers. At the same time, community organizations, seniors, and people with special needs require additional assistance.</p><p><br></p><p>The proposed Volunteer Management System (VMS) will provide an online platform that connects volunteers with organizations and individuals who need assistance. The system will allow volunteers to register, receive approval, view and accept assignments, and keep track of their volunteer activities. Local businesses can also provide discounts or promotions to encourage volunteer participation.</p>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "Sulav"
+                      },
+                      "changedOn": "2026-10-01T18:14:34.909Z"
+                    }
+                  ]
                 }
               ]
             },
@@ -231,27 +290,103 @@
                 {
                   "id": "38",
                   "guid": "26e12f69-e610-4e34-acab-dd1c2fbb8551",
-                  "text": "<p><span style=\"color:windowtext;\">Situation<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style=\"color:windowtext;\">Describe the background, context, and environment.</span></p>"
+                  "text": "<p><span style=\"color:windowtext;\">Situation:<span>&nbsp; &nbsp; &nbsp;</span></span></p><p>The City needs more efficient coordination between volunteers and community members who require assistance. An estimated 10,000–15,000 senior cases may require support.</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "text": "<p><span style=\"color:windowtext;\">Situation<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style=\"color:windowtext;\">Describe the background, context, and environment.</span></p>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "Sulav"
+                      },
+                      "changedOn": "2026-10-01T18:07:34.259Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p><span style=\"color:windowtext;\">Situation:<span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span>Kamloops currently needs an organized way to reconnect volunteers with community activities and people who require assistance.</p><p><br></p>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "Sulav"
+                      },
+                      "changedOn": "2026-10-01T18:15:11.076Z"
+                    }
+                  ]
                 },
                 {
                   "id": "39",
                   "guid": "01ed0eb5-c6a3-4458-84e3-9a707f296658",
-                  "text": "<p><span style=\"color:windowtext;\">Problem</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Describe the business problem (or problems) as you now understand it</span></p>"
+                  "text": "<p><span style=\"color:windowtext;\">Problem:&nbsp;</span></p><p>The current manual process is slow and does not provide a centralized view of available volunteers and community needs. This makes volunteer planning and assignment difficult.</p><p><br></p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "text": "<p><span style=\"color:windowtext;\">Problem</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Describe the business problem (or problems) as you now understand it</span></p>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "Sulav"
+                      },
+                      "changedOn": "2026-10-01T18:15:38.677Z"
+                    }
+                  ]
                 },
                 {
                   "id": "40",
                   "guid": "54d3288e-1e46-4d06-b780-d014bee960ed",
-                  "text": "<p><span style=\"color:windowtext;\">Implication</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp; </span>Describe the likely results if the problem isn’t solved.</span></p>"
+                  "text": "<p><span style=\"color:windowtext;\">Implication: &nbsp;</span></p><p>Delays and inaccurate information may leave community members without timely support and may cause unexpected volunteer shortages.</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "text": "<p><span style=\"color:windowtext;\">Implication</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp; </span>Describe the likely results if the problem isn’t solved.</span></p>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "Sulav"
+                      },
+                      "changedOn": "2026-10-01T18:16:36.864Z"
+                    }
+                  ]
                 },
                 {
                   "id": "41",
                   "guid": "8545d515-e9f3-41fe-9c3c-af96e3a7bd81",
-                  "text": "<p><span style=\"color:windowtext;\">Benefit</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>State the business value of solving the problem.</span></p>"
+                  "text": "<p><span style=\"color:windowtext;\">Benefit:&nbsp;</span></p><p>The VMS will centralize volunteer and case information, improve planning, reduce assignment time, and help the City provide services more efficiently.</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "text": "<p><span style=\"color:windowtext;\">Benefit</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>State the business value of solving the problem.</span></p>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "Sulav"
+                      },
+                      "changedOn": "2026-10-01T18:17:06.562Z"
+                    }
+                  ]
                 },
                 {
                   "id": "42",
                   "guid": "2d166fe3-9ac8-4a8b-b165-24ed56d38895",
-                  "text": "<p><span style=\"color:windowtext;\">Vision</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Describe what the desired future state would look like.&gt;</span></p>"
+                  "text": "<p><span style=\"color:windowtext;\">Vision:&nbsp;</span></p><p>The desired future state is a system where the City can quickly identify community needs, available qualified volunteers, and potential volunteer shortages, allowing appropriate volunteers to be assigned within approximately three days.</p>",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "text": "<p><span style=\"color:windowtext;\">Vision</span><span style=\"color:windowtext;\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Describe what the desired future state would look like.&gt;</span></p>"
+                      },
+                      "changedBy": {
+                        "company": "Thompson Rivers University",
+                        "email": "t00762405@mytru.ca",
+                        "name": "Sulav"
+                      },
+                      "changedOn": "2026-10-01T18:17:21.606Z"
+                    }
+                  ]
                 }
               ]
             },
