@@ -1,0 +1,59 @@
+{
+  "id": "VSD",
+  "guid": "3ff46138-a1e8-4f51-9e42-df68fef62597",
+  "name": "Vision and Scope document",
+  "lastId": 1,
+  "createdOn": "2026-10-01T17:31:07.401Z",
+  "createdBy": {
+    "name": "T00758528",
+    "email": "t00758528@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "lastChangedOn": "2026-10-01T17:31:11.939Z",
+  "lastChangedBy": {
+    "name": "T00758528",
+    "email": "t00758528@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "data": [
+    {
+      "id": "1",
+      "guid": "b729430a-28da-4e54-8afe-62c4ec365bf9",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00758528@mytru.ca",
+            "name": "T00758528"
+          },
+          "changedOn": "2026-10-01T17:31:11.939Z",
+          "docId": "VSD",
+          "structureAction": "Create"
+        }
+      ]
+    }
+  ],
+  "attributes": {
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.22"
+  }
+}

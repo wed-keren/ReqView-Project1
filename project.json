@@ -1,0 +1,18 @@
+{
+  "id": "Group priject",
+  "description": "project 1",
+  "documents": [
+    "VSD.json"
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.22",
+    "saveHistory": true
+  }
+}
